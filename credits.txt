@@ -1,0 +1,3 @@
+Background music: https://opengameart.org/content/gameboy-dmg-random-nanoloop-tune
+Attack sound: https://opengameart.org/content/gunloop-8bit
+Everything else: https://opengameart.org/content/512-sound-effects-8-bit-style
