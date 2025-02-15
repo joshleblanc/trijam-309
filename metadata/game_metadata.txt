@@ -1,0 +1,7 @@
+devid=HorizonShadow
+devtitle=Cereal
+gameid=trijam-309
+gametitle=Trijam 309
+version=0.1
+icon=metadata/icon.png
+
